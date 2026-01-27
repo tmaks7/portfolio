@@ -555,9 +555,9 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .about__photo {
-    width: 220px;                  /* ADDED */
-    height: 220px;                 /* ADDED */
-    border-radius: 80%;            /* ADDED */
+    width: 420px;                  /* ADDED */
+    height: 420px;                 /* ADDED */
+    border-radius: 50%;            /* ADDED */
     object-fit: cover;             /* ADDED */
 }
 
