@@ -550,8 +550,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .about__photo-container {
     margin-bottom: var(--gutter-normal);
-    display: flex;                  /* ADDED */
-    justify-content: flex-start;        /* ADDED */
+    display: block;                  /* ADDED */
 }
 
 .about__photo {
