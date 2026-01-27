@@ -557,7 +557,7 @@ body:not(.user-is-tabbing) a:focus {
 .about__photo {
     width: 200px;                  /* ADDED */
     height: 200px;                 /* ADDED */
-    border-radius: 70%;            /* ADDED */
+    border-radius: 20%;            /* ADDED */
     object-fit: cover;             /* ADDED */
 }
 
