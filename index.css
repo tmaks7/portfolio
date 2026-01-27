@@ -550,13 +550,14 @@ body:not(.user-is-tabbing) a:focus {
 
 .about__photo-container {
     margin-bottom: var(--gutter-normal);
-    display: block;                  /* ADDED */
+    display: flex;                  /* ADDED */
+    justify-content: flex-start;        /* ADDED */
 }
 
 .about__photo {
     width: 200px;                  /* ADDED */
     height: 200px;                 /* ADDED */
-    border-radius: 50%;            /* ADDED */
+    border-radius: 70%;            /* ADDED */
     object-fit: cover;             /* ADDED */
 }
 
